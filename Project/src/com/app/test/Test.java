@@ -12,6 +12,10 @@ public class Test {
 		int z=x-y;
 		return z;
 	}
+	public int mul(int x,int y) {
+		int z=x*y;
+		return z;
+	}
 	public static void main(String[] args) {
 		
 	System.out.println("abc");
@@ -19,7 +23,7 @@ public class Test {
 	Test t=new Test();
 	t.add();
 	t.sub(10, 58);
-//
+	t.mul(12,5);
 	
 	}
 

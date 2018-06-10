@@ -1,6 +1,10 @@
 package com.app.test;
 
 public class Test {
+	public void mod() {
+	int x=10/2;
+	System.out.println(x);
+	}
 
 	public void add() {
 		int x=10+20;
@@ -26,7 +30,7 @@ public class Test {
 
 	System.out.println("abc");
 
-	
+	t.mod();
 
 	t.mul(12,5);
 	System.out.println(t);

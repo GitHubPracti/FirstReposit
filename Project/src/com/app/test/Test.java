@@ -31,6 +31,7 @@ public class Test {
 	System.out.println("abc");
 
 	t.mod();
+	System.out.println("  ***   ");
 
 	t.mul(12,5);
 	System.out.println(t);

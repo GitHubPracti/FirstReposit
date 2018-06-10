@@ -12,6 +12,8 @@ public class Test {
 		
 	System.out.println("abc");
 
+	Test t=new Test();
+	t.add();
 	
 	}
 

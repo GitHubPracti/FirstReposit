@@ -24,7 +24,7 @@ public class Test {
 	t.add();
 	t.sub(10, 58);
 	t.mul(12,5);
-	
+	System.out.println(t);
 	}
 
 }

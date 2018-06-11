@@ -46,5 +46,6 @@ public static void main(String[] args) {
 	t.add();t.mul(10, 5);
 	t.mod();t.toString();
 	System.out.println("hello");
+	System.out.println("welcome");
 }	
 }

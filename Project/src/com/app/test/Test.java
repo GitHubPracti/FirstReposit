@@ -45,5 +45,6 @@ public static void main(String[] args) {
 	Test t=new Test();
 	t.add();t.mul(10, 5);
 	t.mod();t.toString();
+	System.out.println("hello");
 }	
 }
